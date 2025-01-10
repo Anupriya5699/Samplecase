@@ -7,22 +7,19 @@ private void sample1() {
 
 private void sample2() {
 	System.out.println("Anu.n");
-
 }
 private void sample3() {
 	System.out.println("Anupriya");
+}
+
+private void t2() {
+	System.out.println("t2");
 
 }
-private void nmeth() {
-	System.out.println("Janani");
+private void tes2() {
+	System.out.println("t3");
 
 }
-private void nmeth1() {
-	System.out.println("janu");
 
 }
-private void nmeth2() {
-	System.out.println("janana");
 
-}
-}
